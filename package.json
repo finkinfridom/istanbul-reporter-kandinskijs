@@ -9,7 +9,7 @@
     "reporter"
   ],
   "author": "Alberto Maghini",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "istanbul": "^0.4.5",
     "kandinskijs": "^1.1.1"
