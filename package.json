@@ -1,0 +1,17 @@
+{
+  "name": "istanbul-reporter-kandinskijs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "kandinskijs",
+    "css-testing",
+    "istanbul",
+    "reporter"
+  ],
+  "author": "Alberto Maghini",
+  "license": "MIT",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "kandinskijs": "^1.1.1"
+  }
+}
